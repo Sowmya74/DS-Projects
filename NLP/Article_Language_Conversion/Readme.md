@@ -54,4 +54,4 @@ The project evaluates the translation quality using the following metrics:
 
   ##Interface
 
-  ![Web Interface](DS-Projects/NLP/Article_Language_Conversion/image.png)
+  ![Web Interface](image.png)
