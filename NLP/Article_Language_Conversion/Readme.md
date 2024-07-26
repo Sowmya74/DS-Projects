@@ -52,6 +52,6 @@ The project evaluates the translation quality using the following metrics:
 - **ROUGE Scores**: Measures overlap of unigrams, bigrams, and longest common subsequences.
 - **TER Score**: Measures the number of edits needed to convert the generated text into the reference text.
 
-##Interface
+## Interface
 
   ![Web Interface](image.png)
